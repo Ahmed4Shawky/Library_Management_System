@@ -19,9 +19,10 @@ The Library Management System is a desktop application designed to manage books,
 
 ### Download the Application
 
-You can download the Library Management System installer using the link below:
+You can download the complete package of the Library Management System, including the application and source code, using the link below:
 
-[Download Library Management System](https://example.com/download/LibraryManagementSystemSetup.exe)
+[Download Library Management System Package](https://example.com/download/LibraryManagementSystemPackage.zip)
+
 
 ### Using the Installer Package
 
