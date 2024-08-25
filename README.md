@@ -103,4 +103,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or issues, please contact [Ahmed Shawky](7mda.shawky@gmail.com).
+For any questions or issues, please contact [Ahmed Shawky](https://www.linkedin.com/in/ahmed-shawky-9b1742252/).
