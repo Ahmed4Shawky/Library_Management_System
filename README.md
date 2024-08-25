@@ -17,6 +17,12 @@ The Library Management System is a desktop application designed to manage books,
 
 ## Installation
 
+### Download the Application
+
+You can download the Library Management System installer using the link below:
+
+[Download Library Management System](https://example.com/download/LibraryManagementSystemSetup.exe)
+
 ### Using the Installer Package
 
 1. **Download the Installer:**
