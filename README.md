@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Library Management System is a desktop application designed to manage books, patrons, and borrowing records for a library. It provides functionality to add and manage books and patrons, borrow and return books, and display information about books and patrons.
+The Library Management System is a (Console) desktop application designed to manage books, patrons, and borrowing records for a library. It provides functionality to add and manage books and patrons, borrow and return books, and display information about books and patrons.
 
 ## Features
 
